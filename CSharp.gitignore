@@ -14,3 +14,7 @@ Thumbs.db
 
 # mstest test results
 TestResults
+
+# TFS
+*.vssscc
+*.vspscc
